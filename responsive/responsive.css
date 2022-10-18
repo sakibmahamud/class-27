@@ -1,0 +1,248 @@
+@media all and (max-width: 1330px) {
+    .full-website{
+        width: 100%;
+    }
+}
+@media all and (max-width: 1223px) {
+    .icon {
+        width: 45%;
+        margin: 5px;
+        border: 1px solid #ddd;
+        background: oldlace;
+        padding: 2%;
+        border-radius: 10px;
+    }
+    .head p {
+        width: 70%;
+        margin: auto;
+    }
+   
+}
+@media all and (max-width: 1068px) {
+    .header-right {
+        width: 70%;
+    }
+    .header-left {
+        width: 30%;
+    }
+    .icon {
+        padding: 20px 31px;
+        background: rgba(7, 225, 241, 0.368);
+        border-radius: 10px;
+    }
+    .blog-left {
+        width: 100%;
+    }
+    .blog-right {
+        width: 97%;
+    }
+    .blog-left img {
+        width: 95%;
+        margin: 0 2.5%;
+    }
+}
+@media all and (max-width: 990px) {
+    .header-right {
+        width: 70%;
+    }
+    .header-left {
+        width: 30%;
+    }
+    .header-left h2 {
+        font-size: 23px;
+        margin-top: 12px;
+        margin-left: 12px;
+    }
+    .banner{
+        padding: 150px 0;
+    }
+    .banner h1{
+        font-size: 40px;
+    }
+    .banner p {
+        font-size: 17px;
+        margin-bottom: 30px;
+    }
+    .banner a {
+        padding: 5px 10px;
+        font-size: 15px;
+    }
+    .icon {
+	padding: 20px;
+	background: rgba(221, 221, 221, 0.583);
+	border-radius: 10px;
+}
+
+
+
+
+}
+@media all and (max-width: 915px) {
+    .header-right {
+        width: 75%;
+    }
+    .header-left {
+        width: 25%;
+    }
+    .header-left h2 {
+        font-size: 18px;
+        margin-left: -10px;
+    }
+    .header-right nav ul li a {
+        padding: 0px 10px;
+        font-size: 14px;
+    }
+    .icon1 {
+        padding-bottom: 20px;
+    }
+    .icon {
+        padding: 20px;
+        background: #ddd;
+        border-radius: 10px;
+    }
+    .text {
+        padding: 30px 0 0;
+    }
+    .contact {
+        border: 1px solid #dfff00;
+        border-radius: 10px;
+        background: #f6dd0b57;
+        margin: 0 1%;
+        width: 31.3%;
+    }
+    .contact.secend {
+        padding-bottom: 3%;
+    }
+}
+@media all and (max-width: 703px) {
+    .text2 p {
+        width: 60%;
+        margin: auto;
+    }
+   
+}
+@media all and (max-width: 675px) {
+    .header-left {
+        width: 100%;
+        text-align: center;
+    }
+    .header-right {
+        width: 100%;
+        text-align: center;
+    }
+    .header-left h2 {
+        margin-left: 12px;
+        margin-bottom: 0px;
+        padding: 0;
+        font-size: 28px;
+        color: #3800ff91;
+    }
+    .header-right nav ul li a {
+        font-size: 14px;
+        padding: 22px 7px;
+        line-height: 0px;
+        color: #dfff00c4;
+    }
+    .icon {
+        width: 96%;
+        border: 1px solid #ddd;
+        margin: 2%;
+        padding: 3%;
+        background: oldlace;
+    }
+    .contact {
+        width: 90%;
+        border: 1px solid #dfff00;
+        padding: 7%;
+        margin: 2% 5%;
+        border-radius: 10px;
+        background: #f6dd0b57;
+    }
+    .contact span {
+        color: #0accf9;
+        font-size: 35px;
+    }
+    .contact p {
+        color: #c700ff;
+    }
+    .socal-menu ul li a {
+        padding: 25px 13px;
+        font-size: 23px;
+    }
+    footer p {
+        font-size: 15px;
+    }
+}
+@media all and (max-width: 440px) {
+    .header-right nav ul li a {
+        font-size: 11px;
+        padding: 22px 5px;
+    }
+}
+@media all and (max-width: 411px) {
+    .header-left {
+        width: 100%;
+        text-align: center;
+    }
+    .header-right {
+        width: 100%;
+        text-align: center;
+    }
+    .header-left h2 {
+        margin-left: 12px;
+        margin-bottom: 0px;
+        padding: 0;
+    }
+    .header-right nav ul li a {
+        font-size: 10px;
+         padding: 0px 3px;
+    }
+    .banner {
+        padding: 60px 0;
+    }
+    .banner h1 {
+        font-size: 20px;
+    }
+    .banner p {
+        font-size: 8px;
+        margin-bottom: 20px;
+    }
+    .banner a {
+        padding: 5px 10px;
+        font-size: 9px;
+    }
+    .text {
+        padding: 30px 0 0;
+    }
+    .icon1 {
+        padding-bottom: 25px;
+    }
+    .icon {
+        width: 90%;
+        border: 1px solid rgb(9, 195, 201);
+        margin: 5%;
+        padding: 10px;
+        background-color: rgba(9, 195, 201, 0.551);
+    }
+    .icon h3 {
+        color: #ff0000c2;
+    }
+    .icon p {
+        color: #7500ffa6;
+    }
+    .icon span {
+        color: #b410c1;
+        font-size: 40px;
+    }
+    .head p {
+        width: 70%;
+        margin: auto;
+    }
+    .socal-menu ul li a {
+        padding: 25px 7px;
+        font-size: 18px;
+    }
+    footer p {
+        font-size: 13px;
+    }
+}
